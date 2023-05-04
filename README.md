@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @akin75
-- 👀 I’m interested in AI, Cyber-Security, Devops, SAP and Cloud Computing.
+- 👀 I’m interested in Cyber-Security, Devops and Cloud Computing.
 - 🌱 I’m currently learning programming.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Email -> o.akin75@hotmail.com
